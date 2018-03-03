@@ -1,0 +1,4 @@
+# This tells Travis CI to treat the project as a Node project.
+#node_js: node tells Travis CI to use the latest stable release for the test environment.
+language: node_js
+node_js: node
